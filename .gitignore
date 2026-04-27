@@ -1,0 +1,36 @@
+# Java Project
+
+# Compiled class file
+*.class
+
+# JAR file
+*.jar
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+build/
+dist/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Visual Studio Code
+.vscode/
